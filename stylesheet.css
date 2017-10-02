@@ -1,0 +1,32 @@
+#container {
+   margin: auto;
+   width: 400px;
+   height: 400px;  
+   border-style: solid;    
+    border-color: #000000;
+    }
+
+.blocks{
+float: left;  
+  width: 25px;
+   height: 25px;
+   
+    }
+
+
+h3{
+	text-align:center;
+}
+
+#buttondiv{
+	margin: auto;
+	text-align:center;
+   width: 400px;
+   height: 40px;
+}
+	
+ button{
+	align: center;
+	width: 70px;
+	height: 30px;
+}
